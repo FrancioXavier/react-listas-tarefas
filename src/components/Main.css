@@ -74,3 +74,8 @@
 .tasks li:hover .delete {
   color: #000;
 }
+
+.tasks li span {
+  display: flex;
+  align-items: center;
+}
